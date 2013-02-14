@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  description: MyString
+  duedate: 2013-02-13
+  associated_doc: false
+
+two:
+  name: MyString
+  description: MyString
+  duedate: 2013-02-13
+  associated_doc: false
